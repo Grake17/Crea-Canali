@@ -1,0 +1,16 @@
+{
+    "token": "Njg4NzQ2NDE3MTI4NDcyNTgy.Xm4zFg.RqHa5p1PLQclzMiqug3_lgMkY6Q",    
+    "channel_scrim": "815756678053625877",
+    "channel_galeon": "815756634268631111",
+    "channel_sloop": "815756608821788673",
+    "channel_tdm": "815985267826884720",
+    "channel_portosloop": "615651134362746883",
+    "channel_portogal": "615650836223361075",
+    "channel_portobrig": "615651007845892131",
+    "parent": "689547996647653414",
+    "parentporto": "432866060820152330", 
+    "TDM_limit": 5,
+    "Galleon_limit": 4,
+    "Scrim_limit": 5,
+    "Sloop_limit": 3
+}
